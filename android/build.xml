@@ -68,6 +68,7 @@
 		<build-module name="json"/>
 		<build-module name="map"/>
 		<build-module name="platform"/>
+    <build-module name="quitter"/>
 		<build-module name="utils"/>
 		<build-module name="xml"/>
 		<build-module name="yahoo"/>
